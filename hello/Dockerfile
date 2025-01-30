@@ -2,7 +2,7 @@
 FROM openjdk:8-jdk-alpine
 
 #maintainer 
-MAINTAINER hkdemircan06@gmail.com
+MAINTAINER muradace@gmail.com
 
 
 ARG PACKAGED_JAR=target/hello-0.0.1-SNAPSHOT.jar
