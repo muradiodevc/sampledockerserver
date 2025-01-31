@@ -8,6 +8,6 @@ public class HelloWorld {
 
     @GetMapping("/")
     public String getMessage(){
-        return "Hello World with Docker";
+        return "Hello Madasucker :D";
     }
 }
